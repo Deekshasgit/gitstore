@@ -1,0 +1,2 @@
+# gitstore
+stores bash code
